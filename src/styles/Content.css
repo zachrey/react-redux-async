@@ -1,0 +1,19 @@
+.content-container{
+    width: 500px;
+    margin-top: 20px;
+}
+.image{
+    width: 200px;
+    height: 200px;
+    border: 1px solid #eee;
+}
+.info{
+    padding-top: 12px;
+    margin-left: 10px;
+    width: 260px;
+    height:200px;
+}
+
+.info ul li {
+    font-size: 14px;
+}
